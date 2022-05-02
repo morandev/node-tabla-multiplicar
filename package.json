@@ -1,0 +1,16 @@
+{
+  "name": "proyect",
+  "version": "0.0.1",
+  "description": "learning about node js bases",
+  "main": "appProyect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base10": "node appProyect 10"
+  },
+  "author": "morandev",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.4.1"
+  }
+}
